@@ -1,7 +1,5 @@
 new style sheet
-#3b3f45-back
-#d2d7d3
 One example of UX one of Development
-current project -3d portfolio
-Set of social icons
 fix JS
+future work and inspirations
+text large
