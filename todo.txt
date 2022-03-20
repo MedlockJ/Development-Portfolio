@@ -1,5 +1,3 @@
-new style sheet
-One example of UX one of Development
+move inline styles to stylesheet
 fix JS
-future work and inspirations
-text large
+add more style
